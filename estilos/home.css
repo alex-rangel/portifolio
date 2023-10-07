@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#home{
+    display: flex;
+    width: 99vw;
+    height:88vh;
+    background: white;
+}
+
+#home #homeLeft{
+    width: 50%;
+    height: 100%;
+    background: red;
+}
+
+#home #homeRigth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    background: blue;
+}
+
+#logoHome p{
+    font-size: 400px;
+}
