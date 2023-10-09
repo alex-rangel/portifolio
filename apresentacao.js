@@ -1,4 +1,4 @@
-const  apresentacao = document.querySelector('#apresentacao')
+/*const  apresentacao = document.querySelector('#apresentacao')
 const  corpo = document.querySelector('main')
 
 corpo.style.display = "none"
@@ -8,4 +8,4 @@ function efeitoApres(){
     corpo.style.display = "block"
 }
 
-setTimeout(efeitoApres,2600);
+setTimeout(efeitoApres,2600);*/
