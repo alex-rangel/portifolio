@@ -6,8 +6,8 @@
 
 #home{
     display: flex;
-    width: 99vw;
-    height:88vh;
+    width: 100vw;
+    height: calc(100vh - 7rem);
     background: white;
 }
 
@@ -26,6 +26,6 @@
     background: blue;
 }
 
-#logoHome p{
+#home #homeRigth p{
     font-size: 400px;
 }
